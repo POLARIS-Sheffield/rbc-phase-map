@@ -1,6 +1,6 @@
 # Sliding Window <sup>129</sup>Xe RBC Oscillation Mapping
 
-This repository contains scripts and example data to perform sliding window oscillation phase mapping, as described in the work ‘Mapping the amplitude and phase of dissolved <sup>129</sup>Xe red blood cell signal oscillations with keyhole spectroscopic lung imaging’ by Jemima H. Pilgrim-Morris, Guilhem J. Collier, Mika Takigawa, Neil J. Stewart and Jim M. Wild.
+This repository contains scripts and example data to perform sliding window oscillation phase mapping, as described in the work ‘Mapping the amplitude and phase of dissolved <sup>129</sup>Xe red blood cell signal oscillations with keyhole spectroscopic lung imaging’ by Jemima H. Pilgrim-Morris, Guilhem J. Collier, Mika Takigawa, Scarlett Strickland, Roger Thompson, Graham Norquay, Neil J. Stewart and Jim M. Wild, Magnetic Resonance in Medicine, 2024. DOI: 10.1002/mrm.30296
 
 ## Scripts
 
